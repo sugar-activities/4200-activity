@@ -1,0 +1,34 @@
+8
+
+* Remove interpreter calls
+
+7
+
+* Add MANIFEST
+* Use a protected update_url.
+
+6
+
+* Clarify license
+
+5
+
+* Fix internal activity name
+
+4
+
+* Match window pid/name with procfs
+* Add procmem package
+
+3
+
+* Fix PyXRES
+
+2
+
+* New X Server interface
+
+1
+
+* Initial version
+
